@@ -1,0 +1,3 @@
+dig into return to find collection of images if you get a collection of giphy objects
+
+will get giphy url, not image url that you need
